@@ -1,0 +1,4 @@
+baseURL = 'https://ognotes.github.io/'
+languageCode = 'en-us'
+title = 'OG notes'
+theme = "ananke"
